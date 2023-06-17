@@ -11,7 +11,7 @@ Explorer learning trail build project(Stage 03)
 
 - HTML
 - CSS 
-- GIT e GITHUB
+- GIT and GITHUB
 
 ## ❤ Contact
 
